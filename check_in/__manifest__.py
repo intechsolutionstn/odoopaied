@@ -3,12 +3,12 @@
     'name': "Incoming Payments - Check ",
 
     'summary': """
-       Imprission de certificat de retenue à la source""",
+       this module allows you to tick the incoming check payment in odoo payment""",
     'description': """
         Model de Incoming Payments  Check
     """,
-    'author': "",
-    'website': "",
+    'author': "InTech Solutions",
+    'website': "www.intech-eg.tech",
     'category': 'accounting',
     'version': '1.2.0',
     'depends': ['account',
@@ -22,7 +22,7 @@
     'auto_install': False,
     'application': False,
     'license': 'OPL-1',
-    "price": 30,
+    "price": 10,
     "currency": 'EUR',
     'images': ['static/description/bank.jpg'],
 }
