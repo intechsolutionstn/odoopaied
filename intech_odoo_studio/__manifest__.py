@@ -6,7 +6,7 @@
     'description': """
         Odoo Studio. Customize and Build Odoo View on the fly without any technical knowledge
     """,
-    'author': "InTech Solutions",
+    'author': "InT",
     'depends': ['web', "web_editor", "base_automation"],
     'data': [
         'views/templates.xml',
